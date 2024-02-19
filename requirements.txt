@@ -1,0 +1,10 @@
+findspark
+pyspark
+pymongo
+requests
+pyarrow
+numpy
+pandas
+python-dotenv
+schedule
+chardet

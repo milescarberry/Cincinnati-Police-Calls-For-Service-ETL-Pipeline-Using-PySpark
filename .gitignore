@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+.streamlit/
+data/cin_crime_data/
+hadoop-3.0.0/
+pandas_utils/
+practice_notebooks/
+pyspark_etl_venv/
+spark-3.4.2-bin-without-hadoop/
+spark-3.5.0-bin-hadoop3/
+.env
